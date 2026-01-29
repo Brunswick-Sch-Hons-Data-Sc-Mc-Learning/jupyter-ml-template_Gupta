@@ -3,5 +3,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+nltk
+spacy
+gensim
+scipy
+joblib
 jupyter
 ipykernel
